@@ -1,7 +1,9 @@
-package es.ceed;
+package es.ceed.ArrayList;
+
+import es.ceed.ArrayList.Ordenador;
+import es.ceed.ArrayList.PlayArrayList;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Hello world!
@@ -53,7 +55,7 @@ public class App
 
         // PASO 5. Protege la lista de duplicados, es decir, no deberían existir dos ordenadores con la misma referencia
         // en la lista, para ello será necesario implementar el método equals en Ordenador (ya hecho) y utilizar de forma
-        // correcta el método contains() de ArrayList
+        // correcta el método   de ArrayList
         System.out.print("\nPASO5 Comprueba que el ordenador con la misma referencia ya existe en la lista\n" );
         System.out.print("==============================================================================\n" );
 
