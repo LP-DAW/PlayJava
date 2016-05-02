@@ -10,15 +10,15 @@ public class Main {
 
 
         Vista1 vista1 = new Vista1();
-        //vista1.setVisible(true);
+        vista1.setVisible(true);
 
         Vista2 vista2 = new Vista2();
-        //vista2.setVisible(true);
+        vista2.setVisible(true);
 
         Vista3 vista3 = new Vista3();
-        //vista3.setVisible(true);
+        vista3.setVisible(true);
 
         Vista4 vista4 = new Vista4();
-        //vista4.setVisible(true);
+        vista4.setVisible(true);
     }
 }
