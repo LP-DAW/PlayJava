@@ -20,5 +20,8 @@ public class Main {
 
         Vista4 vista4 = new Vista4();
         vista4.setVisible(true);
+
+        VistaPersona vp = new VistaPersona();
+        vp.setVisible(true);
     }
 }
