@@ -38,10 +38,15 @@ public class Controller1 implements ActionListener {
         */
         //completar
 
+        throw new RuntimeException("Implementar");
+
+
 
     }
 
     public void actionPerformed(ActionEvent ae) {
+        throw new RuntimeException("Implementar");
+
         //completar con un switch dependiendo del valor que tome ae.getActionCommand()
 
     }

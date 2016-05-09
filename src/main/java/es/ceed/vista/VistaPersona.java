@@ -21,7 +21,6 @@ public class VistaPersona extends JFrame {
     }
 
     private void init() {
-
         //completar
 
 
@@ -29,6 +28,8 @@ public class VistaPersona extends JFrame {
         this.setResizable(false);
         this.setLocationRelativeTo(null); //centrar
         pack();
+
+        throw new RuntimeException("Vista persona no implentado");
 
     }
 
